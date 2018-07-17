@@ -10,4 +10,4 @@ Accuracy 📈 and Loss 📉
 
 ---<br>
 Author: Akshat Maheshwari <br>
-Guided By: [Rahul Kumar](www.hellorahulk.com)
+Guided By: [Rahul Kumar](http://www.hellorahulk.com/)
