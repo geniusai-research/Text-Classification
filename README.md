@@ -14,8 +14,12 @@ If you used this environment for your experiments or found it helpful, consider 
 <pre>
 @article{Text-Classification,
   title={Report on Text Classification using CNN, RNN & HAN},
+  publisher = {Jatana.ai},
+  journal = {https://medium.com/jatana},  
   author={Akshat Maheshwari},
-  mentor={Rahul Kumar (rahul@jatana.ai) },
-  year={2018}
+  mentor={Rahul Kumar(rahul@jatana.ai)},
+  year={2018},
+  howpublished = {\url{https://github.com/jatana-research/Text-Classification}}
+  
 }
 </pre>
