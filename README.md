@@ -8,6 +8,14 @@ Accuracy 📈 and Loss 📉
 ![Loss](https://cdn-images-1.medium.com/max/1200/1*PksLGd953Rk1T2cXmJmMRw.png "Loss Plot")
 
 
----<br>
-Author: Akshat Maheshwari <br>
-Guided By: [Rahul Kumar](http://www.hellorahulk.com/)
+## Work citation
+
+If you used this environment for your experiments or found it helpful, consider citing the following:
+<pre>
+@article{Text-Classification,
+  title={Report on Text Classification using CNN, RNN & HAN},
+  author={Akshat Maheshwari},
+  mentor={Rahul Kumar (rahul@jatana.ai) },
+  year={2018}
+}
+</pre>
