@@ -1,0 +1,7 @@
+numpy
+pandas
+BeautifulSoup
+np_utils
+matplotlib
+Theano
+keras
